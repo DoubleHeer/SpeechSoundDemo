@@ -1,0 +1,14 @@
+//
+//  SpeechSound.pch
+//  SpeechSoundDemo
+//
+//  Created by heer on 2016/10/20.
+//  Copyright © 2016年 heer. All rights reserved.
+//
+
+#ifndef SpeechSound_pch
+#define SpeechSound_pch
+
+#define APPLE_VALUE @"580821b2"
+
+#endif /* SpeechSound_pch */
